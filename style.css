@@ -17,6 +17,7 @@ section{
     padding-left: 5%;
     
 }
+
 .half-width img{
     width: 80%;
 
@@ -24,6 +25,11 @@ section{
 .half-width-down
 {
     padding-top:20%;
+}
+.half-width-half{
+
+    width:30%;
+
 }
 .link-button
 {
@@ -36,7 +42,34 @@ section{
 
 }
 .middle-part{
+    padding-top: 10%;
     background-image: url(images/7.png);
     background-repeat: no-repeat;
 
 }
+
+.middle-footer
+{
+    text-align: center;
+}
+
+.lower-footer{
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+  padding-bottom: 5%;
+  padding-top: 2.5%;
+  background-color:rgba(0, 0, 0, 0.486);
+  color: white;
+}
+.color-footer
+{
+    color:orange
+}
+.first-image{
+    border: 2px solid blanchedalmond;
+    padding: 10px;
+    border-radius: 5px;
+    border-right: 2.5px;
+    margin: 10px;
+    }
